@@ -73,6 +73,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [AAU Sidebar] | [PDF][AAU Sidebar-pdf] | A theme with a sidebar for the Aalborg University, by Jesper Kjær Nielsen. |
 | [AAU Simple] | [PDF][AAU Simple-pdf] | A simpler theme for the Aalborg University, by Jesper Kjær Nielsen. |
 | [Aalborg] | [PDF][Aalborg-pdf] | A neutral version of AAU Sidebar for people who are not affiliated with the Aalborg University, by Jesper Kjær Nielsen. |
+| [TCNJ][rpatrick] |  | An unofficial theme for The College of New Jersey, based on Aalborg, by Ryan Patrick. |
+| [WSU][rpatrick] |  | An unofficial theme for Wright State University, based on Aalborg, by Ryan Patrick. |
+| [UCF][rpatrick] |  | An unofficial theme for University of Central Florida, based on Aalborg, by Ryan Patrick. |
 
 
 
@@ -212,3 +215,4 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [AAU Simple-pdf]: http://kom.aau.dk/~jkn/latex/docs/AAUsimpletheme.pdf
 [Aalborg]: http://kom.aau.dk/~jkn/latex/latex.php#beamer_aalborg
 [Aalborg-pdf]: http://kom.aau.dk/~jkn/latex/docs/aalborgtheme.pdf
+[rpatrick]: http://cse.unl.edu/~rpatrick/code/index.html
