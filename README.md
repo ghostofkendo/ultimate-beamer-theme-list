@@ -76,6 +76,12 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [TCNJ][rpatrick] |  | An unofficial theme for The College of New Jersey, based on Aalborg, by Ryan Patrick. |
 | [WSU][rpatrick] |  | An unofficial theme for Wright State University, based on Aalborg, by Ryan Patrick. |
 | [UCF][rpatrick] |  | An unofficial theme for University of Central Florida, based on Aalborg, by Ryan Patrick. |
+| [Beamer2thesis] | [Screenshot][Beamer2thesis-screenshot] | A theme for thesis defenses, by Claudio Fiandrino. It is provided in the [TeXLive] distribution. |
+| [Dark Themes] | [PDF][Dark Themes-pdf] | 3 dark themes (Cormorant, Magpie, Frigatebird), by Damien Thiriet. It is provided in the [TeXLive] distribution. |
+| [JLTree] | [Screenshot][JLTree-screenshot] | A theme by Jérôme Lelong. It is provided in the [TeXLive] distribution. |
+| [nirma] |  | A theme for academic presentations, by Ashish Revar. It is provided in the [TeXLive] distribution. |
+| [phnompenh] | [PDF][phnompenh-pdf] | A theme similar to the default ones but designed to be attractive, by Say Ol. It is provided in the [TeXLive] distribution. |
+| [upenn-bc] |  | Themes in the colors of the University of Pennsylvania and Boston College, by Georg Strasser. It is provided in the [TeXLive] distribution. |
 
 
 
@@ -216,3 +222,14 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Aalborg]: http://kom.aau.dk/~jkn/latex/latex.php#beamer_aalborg
 [Aalborg-pdf]: http://kom.aau.dk/~jkn/latex/docs/aalborgtheme.pdf
 [rpatrick]: http://cse.unl.edu/~rpatrick/code/index.html
+[Beamer2thesis]: https://cfiandra.github.io/Beamer2Thesis/
+[Beamer2thesis-screenshot]: http://claudiofiandrino.altervista.org/LaTeX/Beamer2Thesis/image1.jpg
+[TeXLive]: https://www.tug.org/texlive/
+[Dark Themes]: http://www.ctan.org/pkg/beamerdarkthemes
+[Dark Themes-pdf]: http://mirror.jmu.edu/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamerdarkthemes/beamerdarkthemesuserguide.pdf
+[JLTree]: http://www-ljk.imag.fr/membres/Jerome.Lelong/latex/JLTree/JLTree.html
+[JLTree-screenshot]: http://www-ljk.imag.fr/membres/Jerome.Lelong/latex/JLTree/tcl_func/page1.png
+[nirma]: http://ctan.org/pkg/beamerthemenirma/
+[phnompenh]: http://www.ctan.org/pkg/beamertheme-phnompenh
+[phnompenh-pdf]: http://ctan.mackichan.com/macros/latex/contrib/beamer-contrib/themes/phnompenh/beamerthemePhnomPenh.pdf
+[upenn-bc]: http://ctan.org/pkg/beamertheme-upenn-bc
