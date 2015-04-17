@@ -68,6 +68,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [ampang] | [Screenshot][ampang-screenshot] | A theme which uses Ubuntu fonts, by Muhammad Najmi Ahmad Zabidi. |
 | [BlackBoard][kmbeamer] | [PDF][BlackBoard-pdf] | A theme mimicking a blackboard, by Kazuki Maeda. |
 | [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
+| [PaperPlane] |  | A theme featuring a paper plane in the background, by Jonathan Potter. |
 
 
 
@@ -198,3 +199,4 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [kmbeamer]: https://github.com/kmaed/kmbeamer/
 [BlackBoard-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_Blackboard.pdf
 [DarkConsole-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_DarkConsole.pdf
+[PaperPlane]: https://github.com/jpotterm/beamer-themes
