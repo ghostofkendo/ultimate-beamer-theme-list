@@ -69,6 +69,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [BlackBoard][kmbeamer] | [PDF][BlackBoard-pdf] | A theme mimicking a blackboard, by Kazuki Maeda. |
 | [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
 | [PaperPlane] |  | A theme featuring a paper plane in the background, by Jonathan Potter. |
+| [blackboard-alt] | [Screenshot][blackboard-alt-screenshot] | Another theme mimicking a blackboard, by Jasper Bosch. (The .sty files are downloadable in the "Project" sidebar on overleaf.com) |
 
 
 
@@ -200,3 +201,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [BlackBoard-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_Blackboard.pdf
 [DarkConsole-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_DarkConsole.pdf
 [PaperPlane]: https://github.com/jpotterm/beamer-themes
+[blackboard-alt]: https://www.overleaf.com/20113zpkgkf#/5437013/
+[blackboard-alt-screenshot]: https://luisrguzmanjr.files.wordpress.com/2012/02/slide1.png?w=490&h=367
