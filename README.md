@@ -70,6 +70,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
 | [PaperPlane] |  | A theme featuring a paper plane in the background, by Jonathan Potter. |
 | [blackboard-alt] | [Screenshot][blackboard-alt-screenshot] | Another theme mimicking a blackboard, by Jasper Bosch. (The .sty files are downloadable in the "Project" sidebar on overleaf.com) |
+| [AAU Sidebar] | [PDF][AAU Sidebar-pdf] | A theme with a sidebar for the Aalborg University, by Jesper Kjær Nielsen. |
+| [AAU Simple] | [PDF][AAU Simple-pdf] | A simpler theme for the Aalborg University, by Jesper Kjær Nielsen. |
+| [Aalborg] | [PDF][Aalborg-pdf] | A neutral version of AAU Sidebar for people who are not affiliated with the Aalborg University, by Jesper Kjær Nielsen. |
 
 
 
@@ -203,3 +206,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [PaperPlane]: https://github.com/jpotterm/beamer-themes
 [blackboard-alt]: https://www.overleaf.com/20113zpkgkf#/5437013/
 [blackboard-alt-screenshot]: https://luisrguzmanjr.files.wordpress.com/2012/02/slide1.png?w=490&h=367
+[AAU Sidebar]: http://kom.aau.dk/~jkn/latex/latex.php#beamer_aausidebar
+[AAU Sidebar-pdf]: http://kom.aau.dk/~jkn/latex/docs/AAUsidebartheme.pdf
+[AAU Simple]: http://kom.aau.dk/~jkn/latex/latex.php#beamer_aausimple
+[AAU Simple-pdf]: http://kom.aau.dk/~jkn/latex/docs/AAUsimpletheme.pdf
+[Aalborg]: http://kom.aau.dk/~jkn/latex/latex.php#beamer_aalborg
+[Aalborg-pdf]: http://kom.aau.dk/~jkn/latex/docs/aalborgtheme.pdf
