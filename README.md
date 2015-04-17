@@ -77,11 +77,11 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [WSU][rpatrick] |  | An unofficial theme for Wright State University, based on Aalborg, by Ryan Patrick. |
 | [UCF][rpatrick] |  | An unofficial theme for University of Central Florida, based on Aalborg, by Ryan Patrick. |
 | [Beamer2thesis] | [Screenshot][Beamer2thesis-screenshot] | A theme for thesis defenses, by Claudio Fiandrino. It is provided in the [TeXLive] distribution. |
-| [Dark Themes] | [PDF][Dark Themes-pdf] | 3 dark themes (Cormorant, Magpie, Frigatebird), by Damien Thiriet. It is provided in the [TeXLive] distribution. |
+| [Dark Themes] | [PDF][Dark Themes-pdf] | 3 dark themes (Cormorant, Magpie, Frigatebird), by Damien Thiriet. They are provided in the [TeXLive] distribution. |
 | [JLTree] | [Screenshot][JLTree-screenshot] | A theme by Jérôme Lelong. It is provided in the [TeXLive] distribution. |
 | [nirma] |  | A theme for academic presentations, by Ashish Revar. It is provided in the [TeXLive] distribution. |
 | [phnompenh] | [PDF][phnompenh-pdf] | A theme similar to the default ones but designed to be attractive, by Say Ol. It is provided in the [TeXLive] distribution. |
-| [upenn-bc] |  | Themes in the colors of the University of Pennsylvania and Boston College, by Georg Strasser. It is provided in the [TeXLive] distribution. |
+| [upenn-bc] |  | Themes in the colors of the University of Pennsylvania and Boston College, by Georg Strasser. They are provided in the [TeXLive] distribution. |
 
 
 
